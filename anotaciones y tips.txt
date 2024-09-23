@@ -1,0 +1,2 @@
+23/09/2024
+Aquí pienso agregar todas las anotaciones y tips necesarios para trabajar con GIT
