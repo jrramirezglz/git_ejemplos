@@ -1,2 +1,4 @@
 23/09/2024
 Aquí pienso agregar todas las anotaciones y tips necesarios para trabajar con GIT
+commando cuando se crea un nuevo branch y se quiere conectar a git
+    git push --set-upstream origin sandbox
