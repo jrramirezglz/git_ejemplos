@@ -1,0 +1,5 @@
+en este archivo estoy haciendo prubas para entender como funcionan.
+en este primer commit voy a escribir estas líneas, hacer un commit y dar merge con master 
+
+
+///en este siguiente ejemplo voy aescribir esto y voy a descartar los cambios cxon restore
